@@ -1,6 +1,6 @@
 body {
     background-color: #9a97ab;
-    color: rgb(3, 28, 92);
+    color: rgb(77, 12, 12);
       font-family: 'Oswald', sans-serif;
   }
   
@@ -13,3 +13,21 @@ body {
     color: rgb(241, 242, 244);
       font-family: 'Oswald',
   }
+ * {
+     background-image: url('https://t3.ftcdn.net/jpg/00/28/26/20/240_F_28262058_d8sUm5uMJ1Uh2UR1Dvbm9tNKuPDNTKHw.jpg');
+   }
+ h3 {
+    color: rgb(98, 65, 25);
+ }
+
+ h2 {
+    color: rgb(0, 0, 0);
+  background-image: url('https://storage.googleapis.com/multi-static-content/previews/artage-io-thumb-6d0607bc3a24980a6d767ae324da0ac6.png');
+  background-size: 100px 30px;
+}
+ h1{
+    color: rgb(99, 22, 4);
+}
+.test {
+    opacity: 0.6;
+}

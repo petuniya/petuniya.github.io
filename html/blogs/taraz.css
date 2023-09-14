@@ -35,7 +35,7 @@ h2 a {
 }
 
 h2 a:hover {
-	background-color: #111;
+	background-color: #197f54;
 }
 
 figcaption{
@@ -67,7 +67,7 @@ aside {
 	padding: 15px;
 	max-width: 80%;
 	position: relative;
-	border-color: #20e701;
+	border-color: #4b0882;
 	border-width: 5px;
 	font-size: 18px;
 }
@@ -76,7 +76,7 @@ footer {
 	position: relative;
 	width: 100%;
 	bottom: -100px;
-	background-color: #0ddd1b;
+	background-color: #640ddd;
 }
 
 footer p {
@@ -99,7 +99,7 @@ footer a {
 
 audio {
 	padding: 15px;
-	width: 42%;
+	width: 38%;
   box-sizing: border-box;
 }
 
@@ -107,4 +107,18 @@ embed {
 	width: 650px;
 	height: 650px;
   padding:15px;
+}
+p{
+    color:rgb(29, 71, 185)
+}
+
+*{
+    background-image: url('https://img.freepik.com/free-photo/crinkled-cardboard-texture_23-2147786527.jpg?w=360&t=st=1694614847~exp=1694615447~hmac=347330fea015c078ad0525125ac13035287e2f60706a2afc61a4ecb5f07b9586');
+}
+
+h1{
+    color: rgb(81, 6, 128);
+}
+.test {
+    opacity: 0.6;
 }
