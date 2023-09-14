@@ -16,5 +16,12 @@ h4 {
 .test {
     opacity: 0.9;
 }
+#css-result {
+    background:(khaki) no-repeat;
+    width: 256px;
+    height: 32px;
+    background-size: 80%;
+    border: dashed;
+  }
 
 
