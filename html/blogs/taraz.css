@@ -122,3 +122,14 @@ h1{
 .test {
     opacity: 0.6;
 }
+h1 {
+	color: rgb(32, 97, 187);
+}
+
+#banner {
+    background-image: url("../resources/images/forest-3622519_1280.jpg");
+    background-size: cover;
+    background-position: bottom center;
+    height: 700px; 
+    width: 100%;
+  }

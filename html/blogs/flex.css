@@ -1,0 +1,135 @@
+/* Universal Styles */
+body {
+    margin: 0px;
+    background-color: whitesmoke;
+    font-family: 'Rock Salt', cursive;
+    text-align: center;
+  }
+  
+  .secondary-background {
+    background-color: snow;
+  }
+  
+  .tagline {
+    font-family: 'Quicksand', sans-serif;
+    color: lightslategrey;
+    line-height: 125px;
+  }
+  
+  /* Header */
+  h1 {
+    margin: 0;
+    background-color: steelblue;
+    line-height: 100px;
+    color: khaki;
+  }
+  
+  h2 {
+    margin: 10px;
+  }
+  
+  /* App Container */
+  .container {
+    border: 2px solid snow;
+  }
+  
+  /* To Do Section */
+  .week {
+
+        flex-grow: 3;
+     
+        flex-direction: column;
+     
+        flex-direction: column;
+
+  }
+     
+      .row {
+        justify-content: space-around;
+      }
+    
+      .square {
+        justify-content: center;
+      }
+    
+      .row, .square {
+        align-items: center;
+      }
+  
+  
+  .row {
+    min-height: 200px;
+    display: flex;
+  }
+  
+  .square {
+    width: 125px;
+    height: 125px;
+    padding: 10px;
+  }
+  
+  .day.square {
+    background-color: steelblue;
+    border: 1px solid white;
+  }
+  
+  .task.square {
+    background-color: khaki;
+    border: 1px solid white;
+  }
+  
+  .task p {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+  }
+  
+  /* Reminders */
+  .reminders {
+    background-color: khaki;
+        display: inline-flex;
+      }
+
+  
+  .reminders h3 {
+    width: 100%;
+    margin: 10px;
+    color: black;
+    line-height: 90px;
+    font-size: 24px;
+  }
+  
+  /* Footer */
+  footer {
+    font-size: 24px;
+  }
+ .container, .square {
+  display: flex;
+}
+    
+  
+  #expertise {
+    padding: 20px;
+    background-color: #ffc200;
+    margin: 0;
+    text-align: center;
+  }
+  
+  /*Footer Section*/
+  .footer {
+    padding: 60px 0px;
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .footer h3 {
+    font-size: 20px;
+    margin-left: 20px;
+  }
+  
+  .footer p {
+    font-size:12px;
+    margin-bottom: 0;
+    margin-left: 20px;
+  }
+ 
