@@ -243,7 +243,7 @@ button {
 }
 
 
-  .bao h1 {
+  .pepa h1 {
     color: white;
     display: flex;
     justify-content: center;
@@ -251,7 +251,7 @@ button {
     margin-left: -100px;
 }
 
-.mao {
+.popa {
     margin-top: 32px;
     height: 200px;
     justify-content: center;
@@ -260,7 +260,7 @@ button {
     margin-left: 700px;
 }
 
-.mao p {
+.popa p {
     display: flex;
     justify-content: center;
     color: white;
@@ -269,18 +269,18 @@ button {
     margin-left: -230px;
 }
 
-.ocop-img {
+.wer {
     margin-top: -64px;
     display: flex;
     justify-content: center;
     width: 100%;
 }
 
-.ocop-img img{
+.wer img{
     width: 379px;
     height: 379px;
 }
-.patok {
+.eee {
     width: 100%;
     height: 40vh;
     display: flex;
@@ -289,7 +289,7 @@ button {
     
 }
 
-.patok p{
+.eee p{
     font-size: 30px;
 }
 .rectan{
